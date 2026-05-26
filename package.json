@@ -1,0 +1,12 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "description": "BFHL API for Bajaj Finserv Health",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
